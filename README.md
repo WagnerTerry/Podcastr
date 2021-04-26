@@ -24,3 +24,4 @@ dependências
 - yarn add date-fns // lidar com datas - format
 - yarn add json-server -D
 - yarn add axios
+- yarn add rc-slider
