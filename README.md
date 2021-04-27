@@ -2,7 +2,7 @@ PODCASTR
 SEMANA NLW #05
 Usando React, Next
 
-create-next-app podcastnext
+npx create-next-app podcastnext
 
 para rodar o projeto
 yarn dev
@@ -25,3 +25,5 @@ dependências
 - yarn add json-server -D
 - yarn add axios
 - yarn add rc-slider
+
+usar se quiser o PWA ou electron
